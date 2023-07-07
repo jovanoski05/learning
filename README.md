@@ -1,7 +1,1 @@
-# learning
-
-## Deployment notes
-
-## Stage notes
-
-## How to use this repo
+#Some new staff in here
