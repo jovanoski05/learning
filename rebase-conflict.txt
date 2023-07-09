@@ -1,5 +1,6 @@
 line 1 github
 line 2 github
-line 3 edited locally
+line 3 github, locally
 line 4 github 
 line 5 github
+(not from github, it is from local)
